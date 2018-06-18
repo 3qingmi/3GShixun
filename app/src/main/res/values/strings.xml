@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3GSX</string>
+    <string name="XiaoXi">消息</string>
+    <string name="RenWu">任务</string>
+    <string name="FaBu">发布</string>
+    <string name="ZhaoRen">找人</string>
+    <string name="WoDe">我的</string>
+
+</resources>
